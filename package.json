@@ -1,0 +1,58 @@
+{
+	"name": "Fxc7",
+	"version": "0.0.1-fxc7",
+	"description": "WhatsApp Bot Multi Device Version..",
+	"main": "index.js",
+	"scripts": {
+		"start": "node connection",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"Bot",
+		"WhatsApp",
+		"Whatsapp",
+		"md"
+	],
+	"author": "FarhanXCode7",
+	"license": "MIT",
+	"dependencies": {
+		"@adiwajshing/baileys": "^4.0.0",
+		"axios": "^0.24.0",
+		"brainly-scraper": "^1.0.3",
+		"cfonts": "^2.9.1",
+		"chalk": "4.1.2",
+		"child_process": "^1.0.2",
+		"countapi-js": "^1.0.2",
+		"file-type": "16.5.0",
+		"fluent-ffmpeg": "^2.1.2",
+		"form-data": "^4.0.0",
+		"fs": "^0.0.1-security",
+		"google-it": "^1.6.2",
+		"human-readable": "^0.2.1",
+		"jimp": "^0.16.1",
+		"knights-canvas": "^1.3.7-a",
+		"moment-timezone": "^0.5.34",
+		"node-fetch": "^2.6.1",
+		"ora": "5.4.1",
+		"os": "^0.1.2",
+		"parse-ms": "^2.1.0",
+		"path": "^0.12.7",
+		"perf_hooks": "^0.0.1",
+		"performance-now": "^2.1.0",
+		"pino": "^7.8.0",
+		"qrcode-terminal": "^0.12.0",
+		"sms-service": "^1.1.7",
+		"titikoma-ed": "^0.0.3",
+		"translate-google": "^1.5.0",
+		"util": "^0.12.4",
+		"wikijs": "^6.3.3"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Fxc7/weabot-md.git"
+	},
+	"bugs": {
+		"url": "https://github.com/Fxc7/weabot-md/issues"
+	},
+	"homepage": "https://github.com/Fxc7/weabot-md#readme"
+}
